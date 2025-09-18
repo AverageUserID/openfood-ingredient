@@ -1,1 +1,1 @@
-https://github.com/AverageUserID/openfood-ingredient
+https://github.com/AverageUserID/openfood-ingredient.git
